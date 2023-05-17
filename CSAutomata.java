@@ -41,4 +41,3 @@ public class CSAutomata{
 
 
 // need to close scanner
-//need to push project to github work on it and add visualised code
